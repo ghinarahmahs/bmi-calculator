@@ -1,5 +1,5 @@
 * {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
     width: 500px;
@@ -42,7 +42,7 @@ label {
     font-size: 14px;
 }
 
-#btn-bmi {
+#btn {
     width: 120px;
     height: 35px;
     color: #ffffff;
